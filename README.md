@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/vagner-grizoste" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VagnerGrizoste094" />
     </a>
-    <a href="https://leetcode.com/Vagner_Almagro/" target="_blank">
+    <a href="https://leetcode.com/vagnerGA" target="_blank">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="VagnerGrizoste094" />
     </a>
     <a href="mailto:vagner.grizoste@gmail.com">
